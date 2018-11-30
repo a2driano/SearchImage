@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search Image</string>
+    <string name="warning_need_more_letters">Word must contains more then 1 letter</string>
+    <string name="error_search_no_result">Search did not give any results</string>
+</resources>
